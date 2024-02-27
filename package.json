@@ -1,6 +1,6 @@
 {
   "name": "@ddc391565320/openapiv2",
-  "version": "1.14.0",
+  "version": "1.14.1",
   "description": "火山引擎OpenAPI SDK nodejs版",
   "main": "lib/index.js",
   "engines": {
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:volcengine/volc-sdk-nodejs.git"
+    "url": "git@github.com/ddviper/openaiv2.git"
   },
   "author": "",
   "license": "Apache-2.0",
